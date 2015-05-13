@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>ADSC Master Calendar</title>
+        <link>http://illinois.edu/calendar/list/4442</link>
+        <description>ADSC Master Calendar (pulls in other calendars)</description>
+        <item>
+            <title>Pierre Moulin</title>
+            <link>http://illinois.edu/calendar/detail/4442/32710032</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4442/32710032</guid>
+            <pubDate>Thu, 14 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Visit Pierre Moulin's &lt;a href="http://www.ece.illinois.edu/directory/profile/pmoulin"&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>David Nicol</title>
+            <link>http://illinois.edu/calendar/detail/4442/32674572</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4442/32674572</guid>
+            <pubDate>Sun, 24 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Visit David Nicol's &lt;a href="http://adsc.illinois.edu/people/david-m-nicol"&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Logan Liu</title>
+            <link>http://illinois.edu/calendar/detail/4442/32645242</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4442/32645242</guid>
+            <pubDate>Sun, 24 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Visit&amp;nbsp;Logan Liu's &lt;a href="http://www.ece.illinois.edu/directory/profile/loganliu"&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Rama Ratnam</title>
+            <link>http://illinois.edu/calendar/detail/4442/32710030</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4442/32710030</guid>
+            <pubDate>Thu, 28 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Visit Rama Ratnam's &lt;a href="https://adsc.illinois.edu/people/rama-ratnam"&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Yih-Chun Hu</title>
+            <link>http://illinois.edu/calendar/detail/4442/32710029</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4442/32710029</guid>
+            <pubDate>Fri, 29 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Visit Yih-Chun Hu's &lt;a href="http://www.ece.illinois.edu/directory/profile/yihchun"&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Zbigniew Kalbarczyk</title>
+            <link>http://illinois.edu/calendar/detail/4442/32645240</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4442/32645240</guid>
+            <pubDate>Mon, 01 Jun 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Visit Zbigniew Kalbarczyk's &lt;a href="http://adsc.illinois.edu/people/zbigniew-kalbarczyk"&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Deming Chen</title>
+            <link>http://illinois.edu/calendar/detail/4442/32710031</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4442/32710031</guid>
+            <pubDate>Fri, 07 Aug 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Visit Deming Chen's &lt;a href="http://www.ece.illinois.edu/directory/profile/dchen"&gt;biography&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

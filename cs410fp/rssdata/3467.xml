@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>University High School Calendar</title>
+        <link>http://illinois.edu/calendar/list/3467</link>
+        <description>The new University High School calendar can also be used on mobile devices.</description>
+        <item>
+            <title>AP Exams</title>
+            <link>http://illinois.edu/calendar/detail/3467/31818814</link>
+            <category>none</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3467/31818814</guid>
+            <pubDate>Tue, 12 May 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Library Book Club</title>
+            <link>http://illinois.edu/calendar/detail/3467/32366729</link>
+            <category>Lunch Period</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3467/32366729</guid>
+            <pubDate>Tue, 12 May 2015 11:15:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Madrigals</title>
+            <link>http://illinois.edu/calendar/detail/3467/32366749</link>
+            <category>After School</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3467/32366749</guid>
+            <pubDate>Tue, 12 May 2015 15:05:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Math Team (Fresh/Soph)</title>
+            <link>http://illinois.edu/calendar/detail/3467/32366769</link>
+            <category>After School</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3467/32366769</guid>
+            <pubDate>Tue, 12 May 2015 15:10:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Math Team (Jr/Sr)</title>
+            <link>http://illinois.edu/calendar/detail/3467/32366789</link>
+            <category>After School</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3467/32366789</guid>
+            <pubDate>Tue, 12 May 2015 15:10:00 CDT</pubDate>
+            <description></description>
+        </item>
+    </channel>
+</rss>

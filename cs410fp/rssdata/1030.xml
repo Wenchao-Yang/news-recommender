@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Computer Science PhD Final Exams</title>
+        <link>http://illinois.edu/calendar/list/1030</link>
+        <description>The final exams of Computer Science PhD Candidates</description>
+        <item>
+            <title>Final Exam of Ben Raichel</title>
+            <link>http://illinois.edu/calendar/detail/1030/32720087</link>
+            <category>Dissertation Defense</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/1030/32720087</guid>
+            <pubDate>Fri, 22 May 2015 13:00:00 CDT</pubDate>
+            <description>&lt;p&gt;Thesis title: In Pursuit of Linear Complexity in Discrete and Computational Geometry&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Thesis committee:&lt;/p&gt;
+&lt;p&gt;Sariel Har-Peled, Director/Chair&lt;/p&gt;
+&lt;p&gt;Chandra Chekuri&lt;/p&gt;
+&lt;p&gt;Jeff Erickson&lt;/p&gt;
+&lt;p&gt;Kenneth Clarkson&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Final Exam of Mingjie Qian</title>
+            <link>http://illinois.edu/calendar/detail/1030/32701974</link>
+            <category>Dissertation Defense</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/1030/32701974</guid>
+            <pubDate>Mon, 22 Jun 2015 13:00:00 CDT</pubDate>
+            <description>&lt;p&gt;Thesis title:&amp;nbsp; Unsupervised Learning for High Dimensional Big Data&lt;/p&gt;
+&lt;p&gt;Thesis committee:&lt;/p&gt;
+&lt;p&gt;Chengxiang Zhai, Director/Chair&lt;/p&gt;
+&lt;p&gt;Jiawei Han&lt;/p&gt;
+&lt;p&gt;Dan Roth&lt;/p&gt;
+&lt;p&gt;Liangjie Hong&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Center for Children's Books Calendar</title>
+        <link>http://illinois.edu/calendar/list/3478</link>
+        <description>This Calendar displays events hosted by or sponsored by the Center for Children's Books.</description>
+        <item>
+            <title>CCB Closed--Finals Week</title>
+            <link>http://illinois.edu/calendar/detail/3478/32710027</link>
+            <category>CCB Events</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3478/32710027</guid>
+            <pubDate>Fri, 15 May 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>CCB Closed--Memorial Day</title>
+            <link>http://illinois.edu/calendar/detail/3478/32710028</link>
+            <category>CCB Events</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3478/32710028</guid>
+            <pubDate>Mon, 25 May 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+    </channel>
+</rss>

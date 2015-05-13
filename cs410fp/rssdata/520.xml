@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>CITES Security Training</title>
+        <link>http://illinois.edu/calendar/list/520</link>
+        <description>The CITES Security Training Calendar will provide information about upcoming computer security events including workshops, training sessions, brown bags and other sessions sponsored by CITES Security.</description>
+        <item>
+            <title>Computer Security Training</title>
+            <link>http://illinois.edu/calendar/detail/520/31911374</link>
+            <category>Training</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/520/31911374</guid>
+            <pubDate>Mon, 01 Jun 2015 14:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The Office of Privacy and Information Assurance (OPIA) is pleased to offer a Security Orientation for faculty and staff. Attendees will learn how to secure their computers, proper password management, IT security policies, how to protect sensitive University data, and how to protect their personal identity information.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Working with Sensitive Data Training</title>
+            <link>http://illinois.edu/calendar/detail/520/31911375</link>
+            <category>Training</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/520/31911375</guid>
+            <pubDate>Tue, 02 Jun 2015 14:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The Office of Privacy and Information Assurance (OPIA) is pleased to offer an orientation for faculty and staff that work with sensitive data. Attendees will learn about how to protect sensitive data, securely share data with other people, and how to safely store or destroy data once they are done using it.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Computer Security Training</title>
+            <link>http://illinois.edu/calendar/detail/520/31911376</link>
+            <category>Training</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/520/31911376</guid>
+            <pubDate>Tue, 07 Jul 2015 10:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The Office of Privacy and Information Assurance (OPIA) is pleased to offer a Security Orientation for faculty and staff. Attendees will learn how to secure their computers, proper password management, IT security policies, how to protect sensitive University data, and how to protect their personal identity information.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Computer Security Training</title>
+            <link>http://illinois.edu/calendar/detail/520/31911377</link>
+            <category>Training</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/520/31911377</guid>
+            <pubDate>Wed, 05 Aug 2015 13:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The Office of Privacy and Information Assurance (OPIA) is pleased to offer a Security Orientation for faculty and staff. Attendees will learn how to secure their computers, proper password management, IT security policies, how to protect sensitive University data, and how to protect their personal identity information.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Working with Sensitive Data Training</title>
+            <link>http://illinois.edu/calendar/detail/520/31911378</link>
+            <category>Training</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/520/31911378</guid>
+            <pubDate>Thu, 06 Aug 2015 13:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The Office of Privacy and Information Assurance (OPIA) is pleased to offer an orientation for faculty and staff that work with sensitive data. Attendees will learn about how to protect sensitive data, securely share data with other people, and how to safely store or destroy data once they are done using it.&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

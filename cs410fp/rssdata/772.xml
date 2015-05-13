@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>National Center for Supercomputing Applications master calendar</title>
+        <link>http://illinois.edu/calendar/list/772</link>
+        <description>Events for the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign. This master calendar includes NCSA Events subcalendar, Fellow brown bags, Training, NCSA-related events, Great Lakes Consortium/Virtual School, IACAT events subcalendar, and sometimes TSS/CS events.</description>
+        <item>
+            <title>2015 Blue Waters Symposium</title>
+            <link>http://illinois.edu/calendar/detail/772/32227683</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32227683</guid>
+            <pubDate>Sun, 10 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p style="text-align: center;"&gt;&lt;strong&gt;ATTENDANCE IS BY INVITATION ONLY&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Leaders in high-performance computing and data innovation and discovery&amp;nbsp;will gather to share results obtained using the Blue Waters petascale supercomputer, techniques to improve performance, the integration of computing and data, and education and workforce development related to&amp;nbsp;high-performance computing and data.&lt;/p&gt;
+&lt;p&gt;The symposium also serves as the official meeting for National Science Foundation PRAC principal investigators&amp;mdash;all PIs with active Petascale Computing Resource Allocations are expected to attend.&amp;nbsp;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Webinar: Provenance and DataONE: Facilitating Reproducible Science</title>
+            <link>http://illinois.edu/calendar/detail/772/32690983</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32690983</guid>
+            <pubDate>Tue, 12 May 2015 11:00:00 CDT</pubDate>
+            <description>&lt;p&gt;Provenance is a form of metadata that describes the lineage and processing history of data and knowledge artifacts and plays an important role in many scientific applications and use cases. For example, an ecologist might want to combine different datasets for a study, but needs to know how the candidate datasets were derived. A climate scientist might need to document the processing history of climate model outputs to facilitate reproducibility. A natural history collection manager might want to run automated data curation tools on specimen collection data, but has to understand the proposed &amp;ldquo;repairs&amp;rdquo; before executing them. In all these and many other cases like these, provenance information plays a crucial role. In this webinar, we will first give an overview of the different types of provenance information and how they can be used, e.g., to facilitate reproducible science.&lt;/p&gt;
+&lt;p&gt;We will show how a DataONE user can search and navigate provenance information using the new UI currently under development in DataONE. After this user-oriented view on provenance, we finally take a look &amp;ldquo;behind the scenes&amp;rdquo; of the DataONE provenance technologies and present plans for future developments.&lt;/p&gt;
+&lt;p&gt;For full details, visit &lt;a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.dataone.org_upcoming-2Dwebinar&amp;amp;d=AwMFaQ&amp;amp;c=8hUWFZcy2Z-Za5rBPlktOQ&amp;amp;r=r5vA8KQthNivwNDqzwwoFTca94XmJ5-HU3-iT9NiiEw&amp;amp;m=QXukBb_zRPMHpvorL13QWUJO64Pbl1rn332DIJLBC18&amp;amp;s=bzdhBUdc4NfmOrph0OFcExrZVkOf2VdUcJQhLYp5b3Y&amp;amp;e="&gt;https://www.dataone.org/upcoming-webinar.&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Big Data Hub Informational Meeting</title>
+            <link>http://illinois.edu/calendar/detail/772/32712838</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32712838</guid>
+            <pubDate>Wed, 13 May 2015 09:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The National Science Foundation is launching a 10-year effort to create partnerships around big data and the management infrastructure for big data. The partnerships and infrastructure are expected to evolve around four regions (South, Northeast, Midwest and West), and NSF is calling for the creation of four Regional Innovation Big Data Hubs. Phase 1 of this effort began with a&amp;nbsp;&lt;a href="http://www.nsf.gov/pubs/2015/nsf15562/nsf15562.htm"&gt;solicitation&lt;/a&gt; in which NSF expects to fund up to four proposals (one from each region).&lt;/p&gt;
+&lt;p&gt;Illinois is directing the effort for the Midwest Regional Big Data Innovation Hub. NCSA director Ed Seidel and Klara Nahrstedt, director of the Coordinated Science Laboratory, are leading this effort. The Midwest proposal is being written in collaboration with many organizations covering the broad big data challenges of the Midwest, which then academia, industry, foundations, and non-profit organizations can assist to solve. More information will be available as the process unfolds at &lt;a href="https://bdhub.info/"&gt;https://bdhub.info/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nahrstedt and Seidel are seeking knowledge and input for the proposal from University of Illinois researchers who use big data in their domains and who would like to see a broad regional and national alliance develop solutions to the challenges of big data.&lt;/p&gt;
+&lt;p&gt;There will be two informational meetings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;9-11 am Wednesday, May 13 in the Institute for Genomic Biology, room 612.&lt;/strong&gt; Discussion will address potential faculty participation and contributions in the areas of &lt;strong&gt;Food-Water-Energy Nexus, Genomics, Bioinformatics, Life Sciences, Health Sciences and Digital Agriculture&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1-3 pm Thursday, May 21 in the Auditorium of the NCSA Building&lt;/strong&gt;. Topical discussion will be in the areas of &lt;strong&gt;Smart Cities, Advanced Manufacturing, Network Science, Transportation, IT Tools and Services, and Data Science.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+        </item>
+        <item>
+            <title>Brown Bag: Office of Technology Management</title>
+            <link>http://illinois.edu/calendar/detail/772/32541488</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32541488</guid>
+            <pubDate>Wed, 13 May 2015 12:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The Office of Technology Management (OTM) at the University of Illinois in Urbana-Champaign manages intellectual property resulting from the research activities at the univesity. We work with units across campus to help identify, protect, license or otherwise promote research &amp;nbsp;innovations for public use. Svetlana Sowers&amp;nbsp; from OTM and a representative from University Counsel will present a brief overview of OTM services, will discuss how our office can serve NCSA )including promoting and disseminating works developed at NCSA), and will be there to answer your questions.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Smart Cyberinfrastructure for Big Data Processing</title>
+            <link>http://illinois.edu/calendar/detail/772/32702640</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32702640</guid>
+            <pubDate>Thu, 21 May 2015 11:00:00 CDT</pubDate>
+            <description>&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;The landscape of cyberinfrastructure for research is rapidly changing. There is a move towards virtualized and programmable infrastructure. The cloud paradigm enables applications to use computing resources at different places and optimize workflows in either bringing computing to the data or the other way around. Programmable networks allow networks to be utilized in unprecedented ways to create application specific Internets. This talk presents the latest developments in the Research and Education Networks to support Big Data sciences.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio: &lt;/strong&gt;Professor de Laat chairs the System and Network Engineering (SNE) laboratory in the Informatics Institute of the Faculty of Science at University of Amsterdam. Research in his group ranges from optical and switched networking and workflows for processing of big data in PetaScale e-Science applications, Semantic Web to describe e-infrastructure resources, information complexity, Authorization architectures and Systems Security &amp;amp; privacy of information in distributed environments. Prof. de Laat serves on the Lawrence Berkeley Laboratory Policy Board on matters regarding ESnet, is co-founder of the Global Lambda Integrated Facility (GLIF), founder of GRIDforum.nl and founding member of CineGrid.org. His group is/was part of EU projects SWITCH, CYCLONE, ENVRIplus and ENVRI, EuroBrazil, Geysers, NOVI, NEXTGRID, EGEE, and others. He is a member of the Advisory Board Internet Society Netherlands and Scientific technical advisory board of SURF Netherlands. A snapshot of his scientific career is available here: http://delaat.net/.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Big Data Hub Informational Meeting</title>
+            <link>http://illinois.edu/calendar/detail/772/32712839</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32712839</guid>
+            <pubDate>Thu, 21 May 2015 13:00:00 CDT</pubDate>
+            <description>&lt;p&gt;The National Science Foundation is launching a 10-year effort to create partnerships around big data and the management infrastructure for big data. The partnerships and infrastructure are expected to evolve around four regions (South, Northeast, Midwest and West), and NSF is calling for the creation of four Regional Innovation Big Data Hubs. Phase 1 of this effort began with a&amp;nbsp;&lt;a href="http://www.nsf.gov/pubs/2015/nsf15562/nsf15562.htm"&gt;solicitation&lt;/a&gt; in which NSF expects to fund up to four proposals (one from each region).&lt;/p&gt;
+&lt;p&gt;Illinois is directing the effort for the Midwest Regional Big Data Innovation Hub. NCSA director Ed Seidel and Klara Nahrstedt, director of the Coordinated Science Laboratory, are leading this effort. The Midwest proposal is being written in collaboration with many organizations covering the broad big data challenges of the Midwest, which then academia, industry, foundations, and non-profit organizations can assist to solve. More information will be available as the process unfolds at &lt;a href="https://bdhub.info/"&gt;https://bdhub.info/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nahrstedt and Seidel are seeking knowledge and input for the proposal from University of Illinois researchers who use big data in their domains and who would like to see a broad regional and national alliance develop solutions to the challenges of big data.&lt;/p&gt;
+&lt;p&gt;There will be two informational meetings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;9-11 am Wednesday, May 13 in the Institute for Genomic Biology, room 612.&lt;/strong&gt; Discussion will address potential faculty participation and contributions in the areas of &lt;strong&gt;Food-Water-Energy Nexus, Genomics, Bioinformatics, Life Sciences, Health Sciences and Digital Agriculture&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1-3 pm Thursday, May 21 in the Auditorium of the NCSA Building&lt;/strong&gt;. Topical discussion will be in the areas of &lt;strong&gt;Smart Cities, Advanced Manufacturing, Network Science, Transportation, IT Tools and Services, and Data Science.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+        </item>
+        <item>
+            <title>Blue Waters Undergraduate Internship Workshop</title>
+            <link>http://illinois.edu/calendar/detail/772/32607481</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32607481</guid>
+            <pubDate>Tue, 26 May 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Obscura Day: Blue Waters Tour</title>
+            <link>http://illinois.edu/calendar/detail/772/32713185</link>
+            <category>Special Event</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32713185</guid>
+            <pubDate>Sat, 30 May 2015 13:00:00 CDT</pubDate>
+            <description>&lt;p&gt;Obscura Day is a global event in which Atlas Obscura celebrates exploration and discovery with more than 150 curious and awe-inspiring real-world expeditions in 35+ states and 20+ countries, all on a single day.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Obscura Day is designed to make explorers out of everyone, and to reveal the hidden treasures in your own hometown. This year that includes everything from a sunrise falconry exhibition in the California desert to an excursion to the sacred Hindu caves of Goa Gajah, Bali to a private orchestral performance at the Robotic Church in Brooklyn, and much, much more. The whole roster of events can be found at &lt;a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.atlasobscura.com_obscuraday2015&amp;amp;d=AwMFaQ&amp;amp;c=8hUWFZcy2Z-Za5rBPlktOQ&amp;amp;r=r5vA8KQthNivwNDqzwwoFTca94XmJ5-HU3-iT9NiiEw&amp;amp;m=RC1a8zEYBO7GM6JHTLJgX2DLObkejHw-nJsdSSQK3OM&amp;amp;s=BNqHWq8AtK_rbk8ntF_hvVNg4WXoNjfFPN-HQWsC7mM&amp;amp;e="&gt;www.atlasobscura.com/obscuraday2015&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;NCSA is taking part in Obscura Day by offering a tour of the Blue Waters supercomputer, one of the largest and most powerful supercomputers in the world!&lt;/p&gt;
+&lt;p&gt;The tour begins at 1 pm -- because this is an access-controlled facility, it's important to be prompt (or a little early)! A tour guide will meet you at the front entrance (which is at the corner of Oak and St. Mary's).&lt;/p&gt;
+&lt;p&gt;Register for the tour in advance at: &lt;a href="http://www.atlasobscura.com/events/obscura-day-2015-behind-the-scenes-at-the-blue-waters-supercomputer"&gt;http://www.atlasobscura.com/events/obscura-day-2015-behind-the-scenes-at-the-blue-waters-supercomputer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>XSEDE15 early registration ends</title>
+            <link>http://illinois.edu/calendar/detail/772/32672556</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32672556</guid>
+            <pubDate>Wed, 24 Jun 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;&lt;span style="font-size: 18px;"&gt;XSEDE15 &lt;/span&gt;will showcase the discoveries, innovations, challenges and achievements of those who utilize and support XSEDE resources and services, as well as other digital resources and services throughout the world. This year's theme is&amp;nbsp;&lt;em&gt;Scientific Advancements Enabled by Enhanced Cyberinfrastructure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Early registration discounts end at 11:59 p.m. on June 24&lt;/strong&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>XSEDE15</title>
+            <link>http://illinois.edu/calendar/detail/772/31981204</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/31981204</guid>
+            <pubDate>Sun, 26 Jul 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;The annual XSEDE Conference brings together the extended community of individuals interested in advancing research cyberinfrastructure and integrated digital services for the benefit of science and society.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>SC15 poster submissions due</title>
+            <link>http://illinois.edu/calendar/detail/772/32631645</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/772/32631645</guid>
+            <pubDate>Fri, 31 Jul 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;&lt;strong&gt;Poster Submissions are Open&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Send us your posters on education and cutting-edge research! Submissions for Posters and Student Research Competition Posters that display cutting-edge research and work-in-progress in high performance computing, storage, networking and analysis are open.&lt;/p&gt;
+&lt;p&gt;Posters will be prominently displayed for the duration of the Conference, giving presenters a chance to showcase their latest results and innovations. The presented posters will be digitally archived and made publicly available after the Conference. A "Best Poster" Award will be presented based on quality of research work and quality of poster presentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Posters due:&lt;/strong&gt; July 31, 2015&lt;br /&gt; &lt;strong&gt;Notification Sent:&lt;/strong&gt; September 8, 2015&lt;br /&gt; &lt;strong&gt;Email contact:&lt;/strong&gt; &lt;a href="mailto:posters@info.supercomputing.org"&gt;posters@info.supercomputing.org&lt;br /&gt; &lt;/a&gt;&lt;strong&gt;Web Submissions:&lt;/strong&gt; &lt;a href="https://submissions.supercomputing.org/"&gt;https://submissions.supercomputing.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sc15.supercomputing.org/program/posters"&gt;Click here for more information on Posters&lt;/a&gt;&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

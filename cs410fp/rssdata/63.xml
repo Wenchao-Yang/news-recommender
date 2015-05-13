@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Facility Hours</title>
+        <link>http://illinois.edu/calendar/list/63</link>
+        <description>Campus facility hours calendar</description>
+        <item>
+            <title>Women &amp; Business</title>
+            <link>http://illinois.edu/calendar/detail/63/44516</link>
+            <category>Lunch</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/63/44516</guid>
+            <pubDate>Wed, 18 Oct 2006 12:00:00 CDT</pubDate>
+            <description>&lt;p&gt;Bring your own lunch. An opportunity for professional women and students to network, mentor and support one another.&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

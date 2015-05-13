@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>CITL - Chicago Conferences &amp; Events</title>
+        <link>http://illinois.edu/calendar/list/2741</link>
+        <description>All events in the Chicago Metro area hosted by CITL Conference Services</description>
+        <item>
+            <title>Food and Family Conference</title>
+            <link>http://illinois.edu/calendar/detail/2741/32299781</link>
+            <category>Conference</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/2741/32299781</guid>
+            <pubDate>Wed, 16 Sep 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+    </channel>
+</rss>

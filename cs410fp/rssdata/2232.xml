@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>CSL Master Calendar</title>
+        <link>http://illinois.edu/calendar/list/2232</link>
+        <description>CSL Calendar</description>
+        <item>
+            <title>PREMIER: Probabilistic Error-correction using Markov Inference in Errored Reads</title>
+            <link>http://illinois.edu/calendar/detail/2232/32706308</link>
+            <category>Faculty Candidate Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/2232/32706308</guid>
+            <pubDate>Tue, 12 May 2015 11:00:00 CDT</pubDate>
+            <description>&lt;p&gt;Next generation DNA sequencing is a technology that is revolutionizing research in biology and medicine. The sequencers operate by randomly fragmenting a genome into reads (contiguous genome fragments) that are a few hundred of base pairs long. Reads are produced at a much higher throughput compared to classical techniques. However, they are often corrupted by errors which pose a serious problem for downstream processes such as genome assembly. Correcting errors in reads is thus an important problem. The problem differs significantly from classical error correction since there is a lack of alignment information between the different reads. We present a fully flexible, probabilistic and reference-free method of error correction for high throughput DNA sequencing data. The outputs of a sequencer are modeled as independent emissions of a Hidden Markov Model (HMM), where transition probabilities account for local dependence in the genome and the emission distribution models the error properties of the sequencer. We pose the problem of error correction of reads as one of maximum likelihood sequence detection over this HMM. Exhaustive results on publicly available datasets show that our algorithm consistently outperforms existing methods in terms of error correction performance.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>2015 TCIPG Summer School</title>
+            <link>http://illinois.edu/calendar/detail/2232/32570044</link>
+            <category>Education &amp; Training</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/2232/32570044</guid>
+            <pubDate>Mon, 15 Jun 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;&lt;span class="fsl"&gt;The Trustworthy Cyber Infrastructure for the Power Grid (TCIPG) team is excited to offer our fourth summer school, to be held June 15-19, 2015! We invite and encourage utility and industry practitioners, researchers, and students to attend and explore the nexus between electrical energy systems and cybersecurity. Our opening reception will be held on June 14, 2015.&lt;br /&gt;&lt;br /&gt; Our summer school program is an intensive, engaging, and value-packed week of integrated learning activities focused on cybersecurity for power and smart grids. The core program emphasizes basics of security and resiliency for cyber infrastructure in power and smart grids. Advanced topics will address the evolving smarter energy system as well as associated cybersecurity challenges. Sessions will offer integrated training exercises using a virtual smart grid environment developed for this school. The week will also offer lightning talks, networking socials, a job/information fair, and extended lab/learning opportunities.&lt;br /&gt;&lt;br /&gt; Scholarships and sponsorships available. Advance registration is required. For more information or to register, visit &lt;a href="http://tcipg.org/2015-summer-school" target="_blank" rel="nofollow nofollow"&gt;http://tcipg.org/&lt;wbr /&gt;2015-summer-school&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

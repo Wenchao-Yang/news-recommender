@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Industrial &amp; Enterprise Systems Engineering Calendar</title>
+        <link>http://illinois.edu/calendar/list/3604</link>
+        <description>Includes events and seminars for ISE and MSFE</description>
+        <item>
+            <title>IT No Change Period in effect</title>
+            <link>http://illinois.edu/calendar/detail/3604/31225359</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/31225359</guid>
+            <pubDate>Thu, 07 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;The CITES No Change period is designed to minimize the number of technical disruptions that might occur around final exams. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Beginning on Reading Day and continuing a few days past the end of finals, CITES tries to make no technical changes to hardware or software that might disrupt the availability of the campus network, data storage, web sites or any of the software-based services that CITES provides to campus. Changes or updates will only be made by CITES for emergency purposes during the No Change period.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Campuswide May Commencement Ceremony</title>
+            <link>http://illinois.edu/calendar/detail/3604/32204349</link>
+            <category>General Event</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/32204349</guid>
+            <pubDate>Sat, 16 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;For more information on the May Commencement Ceremony, please visit http://commencement.illinois.edu/students/index.html.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Commencement</title>
+            <link>http://illinois.edu/calendar/detail/3604/21388398</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/21388398</guid>
+            <pubDate>Sat, 16 May 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>First Day of Instruction, Summer Term 1</title>
+            <link>http://illinois.edu/calendar/detail/3604/29251233</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/29251233</guid>
+            <pubDate>Mon, 18 May 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Zhenyu Hu-Final Exam</title>
+            <link>http://illinois.edu/calendar/detail/3604/32633301</link>
+            <category>Final Exam</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/32633301</guid>
+            <pubDate>Wed, 20 May 2015 15:00:00 CDT</pubDate>
+            <description>&lt;p&gt;&lt;strong&gt;Doctoral Exam Committee:&lt;/strong&gt;&lt;br /&gt;Xin Chen, Chair &amp;amp; Director of Dissertation Research&lt;br /&gt;Alexander Olshevsky&lt;br /&gt;Nicholas Petruzzi&lt;br /&gt;Qiong Wang&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Dynamic Pricing with Reference Price Effects&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This dissertation mainly focuses on the models and the corresponding dynamic pricing problems that incorporate reference price effects, a concept developed in economics and marketing literature that try to capture the dependency of consumers purchasing behavior on past prices. &lt;br /&gt; &lt;br /&gt; Conceptually, reference price is a price expectation consumers develop from their observations of historical prices. Since it can not be physically observed, various models have been proposed to operationalize its formation. We empirically compare some of the models in the literature and extend the literature by proposing a new reference price model. In addition, we present analysis on the dynamic pricing problems under these models assuming consumers are loss/gain neutral or loss-averse. We find that constant pricing strategies are a robust solution to the problem regardless of which reference price models one may choose.&lt;br /&gt; &lt;br /&gt; Empirical evidences, however, indicate that loss/gain neutral or loss-averse behavior may not be a universal phenomenon. We analyze the dynamic pricing problem when consumers exhibit gain-seeking behavior. In sharp contrast to the loss-averse case, even myopic pricing strategies can result in complicated cyclic price paths. We show for a special case that a cyclic skimming pricing strategy is optimal and provide conditions to guarantee the optimality of high-low pricing strategies.&lt;br /&gt; &lt;br /&gt; With the understanding of the qualitative behavior of the optimal pricing strategies under various settings, we develop efficient algorithms to compute the optimal prices in both loss-averse and gain-seeking case. We demonstrate the efficiency and robustness of our algorithms by applying them to a practical problem with real data.&lt;br /&gt; &lt;br /&gt; Finally, we extend the above considered single-product setting to multi-products setting and analyze the corresponding dynamic pricing problems.&lt;strong&gt;&lt;br /&gt; &lt;br /&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>End of Summer Session 1</title>
+            <link>http://illinois.edu/calendar/detail/3604/29251299</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/29251299</guid>
+            <pubDate>Sat, 13 Jun 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>First Day of Instruction, Summer Term 2</title>
+            <link>http://illinois.edu/calendar/detail/3604/29251300</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/29251300</guid>
+            <pubDate>Mon, 15 Jun 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>End of Summer Session 2</title>
+            <link>http://illinois.edu/calendar/detail/3604/29251301</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/29251301</guid>
+            <pubDate>Thu, 06 Aug 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Final Exams Begin</title>
+            <link>http://illinois.edu/calendar/detail/3604/29251304</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/29251304</guid>
+            <pubDate>Fri, 07 Aug 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Commencement</title>
+            <link>http://illinois.edu/calendar/detail/3604/21388401</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/21388401</guid>
+            <pubDate>Sun, 15 May 2016 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Commencement</title>
+            <link>http://illinois.edu/calendar/detail/3604/21388402</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/21388402</guid>
+            <pubDate>Sun, 14 May 2017 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Commencement</title>
+            <link>http://illinois.edu/calendar/detail/3604/21388403</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/21388403</guid>
+            <pubDate>Sun, 13 May 2018 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Commencement</title>
+            <link>http://illinois.edu/calendar/detail/3604/21388405</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/21388405</guid>
+            <pubDate>Sun, 12 May 2019 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Commencement</title>
+            <link>http://illinois.edu/calendar/detail/3604/21388406</link>
+            <category>Academic</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/3604/21388406</guid>
+            <pubDate>Sun, 17 May 2020 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+    </channel>
+</rss>

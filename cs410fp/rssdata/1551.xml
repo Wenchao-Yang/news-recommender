@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>HireIllini Career Fairs</title>
+        <link>http://illinois.edu/calendar/list/1551</link>
+        <description>The HireIllini calendar provides information about Career Fairs, employments expositions and workshops relevant to employers and recruiters targeting Illinois. Events are offered by The Career Services Network in partnership with Career Services Offices in the colleges and departments throughout the University.</description>
+        <item>
+            <title>Engineering Career Fair</title>
+            <link>http://illinois.edu/calendar/detail/1551/32723733</link>
+            <category>Career Fair</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/1551/32723733</guid>
+            <pubDate>Wed, 09 Sep 2015 10:00:00 CDT</pubDate>
+            <description>&lt;p&gt;See &lt;a href="http://ecs.engineering.illinois.edu/recruiting-students/career-fairs/"&gt;http://ecs.engineering.illinois.edu/recruiting-students/career-fairs/&lt;/a&gt;&amp;nbsp;for information.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Business Career Fair</title>
+            <link>http://illinois.edu/calendar/detail/1551/32723734</link>
+            <category>Career Fair</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/1551/32723734</guid>
+            <pubDate>Wed, 16 Sep 2015 14:00:00 CDT</pubDate>
+            <description>&lt;p&gt;See &lt;a href="https://business.illinois.edu/bcs/recruiters/engage/career-fairs/"&gt;https://business.illinois.edu/bcs/recruiters/engage/career-fairs/&lt;/a&gt;&amp;nbsp;for information.&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>ACES &amp; Sciences Career Fair</title>
+            <link>http://illinois.edu/calendar/detail/1551/32723735</link>
+            <category>Career Fair</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/1551/32723735</guid>
+            <pubDate>Thu, 08 Oct 2015 13:00:00 CDT</pubDate>
+            <description>&lt;p&gt;See &lt;a href="http://academics.aces.illinois.edu/content/aces-and-sciences-career-fair"&gt;http://academics.aces.illinois.edu/content/aces-and-sciences-career-fair&lt;/a&gt;&amp;nbsp;for information.&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

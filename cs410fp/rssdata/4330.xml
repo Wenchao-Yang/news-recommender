@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>MechSE Events</title>
+        <link>http://illinois.edu/calendar/list/4330</link>
+        <description>Calendar that lists upcoming events for alumni of the Department of Mechanical Science and Engineering (MechSE)</description>
+        <item>
+            <title>MechSE Graduation Brunch</title>
+            <link>http://illinois.edu/calendar/detail/4330/32523562</link>
+            <category>Special Topics</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4330/32523562</guid>
+            <pubDate>Sun, 17 May 2015 11:00:00 CDT</pubDate>
+            <description>&lt;p&gt;Join us for a celebration to recognize your achievement of graduating from one of the top engineering programs in the nation.&amp;nbsp;&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

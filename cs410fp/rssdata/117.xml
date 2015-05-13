@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Beckman Main Calendar</title>
+        <link>http://illinois.edu/calendar/list/117</link>
+        <description>Events at the Beckman Institute</description>
+        <item>
+            <title>BRL Seminar and Journal Club</title>
+            <link>http://illinois.edu/calendar/detail/117/31781416</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/117/31781416</guid>
+            <pubDate>Tue, 12 May 2015 16:00:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Digital Signal Processing Seminar</title>
+            <link>http://illinois.edu/calendar/detail/117/32376373</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/117/32376373</guid>
+            <pubDate>Wed, 13 May 2015 16:00:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>BRL Seminar and Journal Club</title>
+            <link>http://illinois.edu/calendar/detail/117/31781417</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/117/31781417</guid>
+            <pubDate>Tue, 19 May 2015 16:00:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Fast Optical Imaging Summer Workshop</title>
+            <link>http://illinois.edu/calendar/detail/117/32631635</link>
+            <category>Workshop</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/117/32631635</guid>
+            <pubDate>Tue, 26 May 2015 08:30:00 CDT</pubDate>
+            <description>&lt;p&gt;Optical Imaging Summer School&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Beckman Master Calendar</title>
+        <link>http://illinois.edu/calendar/list/4595</link>
+        <description>Master calendar that draws in all calendar feeds.</description>
+        <item>
+            <title>BRL Seminar and Journal Club</title>
+            <link>http://illinois.edu/calendar/detail/4595/31781416</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4595/31781416</guid>
+            <pubDate>Tue, 12 May 2015 16:00:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Digital Signal Processing Seminar</title>
+            <link>http://illinois.edu/calendar/detail/4595/32376373</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4595/32376373</guid>
+            <pubDate>Wed, 13 May 2015 16:00:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>BRL Seminar and Journal Club</title>
+            <link>http://illinois.edu/calendar/detail/4595/31781417</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/4595/31781417</guid>
+            <pubDate>Tue, 19 May 2015 16:00:00 CDT</pubDate>
+            <description></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Holidays</title>
+        <link>http://illinois.edu/calendar/list/468</link>
+        <description>Campus holidays at the University of Illinois at Urbana-Champaign.</description>
+        <item>
+            <title>Independence Day (observed)</title>
+            <link>http://illinois.edu/calendar/detail/468/29077152</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/29077152</guid>
+            <pubDate>Fri, 03 Jul 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Labor Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31879446</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31879446</guid>
+            <pubDate>Mon, 07 Sep 2015 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Thanksgiving Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31879447</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31879447</guid>
+            <pubDate>Thu, 26 Nov 2015 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Day After Thanksgiving - Designated Holiday</title>
+            <link>http://illinois.edu/calendar/detail/468/29077147</link>
+            <category>Special Event</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/29077147</guid>
+            <pubDate>Fri, 27 Nov 2015 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Christmas Holiday</title>
+            <link>http://illinois.edu/calendar/detail/468/31968755</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31968755</guid>
+            <pubDate>Thu, 24 Dec 2015 08:30:00 CST</pubDate>
+            <description>&lt;p&gt;1/2 Gift Day and 1/2 Excused Day p.m.*&lt;/p&gt;</description>
+        </item>
+        <item>
+            <title>Christmas Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31968757</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31968757</guid>
+            <pubDate>Fri, 25 Dec 2015 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Reduced Service Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31879448</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31879448</guid>
+            <pubDate>Mon, 28 Dec 2015 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Reduced Service Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31968759</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31968759</guid>
+            <pubDate>Tue, 29 Dec 2015 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Reduced Service Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31968760</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31968760</guid>
+            <pubDate>Wed, 30 Dec 2015 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Designated Holiday</title>
+            <link>http://illinois.edu/calendar/detail/468/31968758</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31968758</guid>
+            <pubDate>Thu, 31 Dec 2015 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>New Year's Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31879449</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31879449</guid>
+            <pubDate>Fri, 01 Jan 2016 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Martin Luther King Jr. Day - Designated Holiday</title>
+            <link>http://illinois.edu/calendar/detail/468/31879450</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31879450</guid>
+            <pubDate>Mon, 18 Jan 2016 08:30:00 CST</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Memorial Day</title>
+            <link>http://illinois.edu/calendar/detail/468/31879451</link>
+            <category>Holiday</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/468/31879451</guid>
+            <pubDate>Mon, 30 May 2016 08:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+    </channel>
+</rss>

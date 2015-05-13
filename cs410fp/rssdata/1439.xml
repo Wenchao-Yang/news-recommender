@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Department of Statistics</title>
+        <link>http://illinois.edu/calendar/list/1439</link>
+        <description>Department of Statistics Seminars and Events</description>
+        <item>
+            <title>Statistics Seminar - Dr. Ping-Shou Zhong (Michigan State University)</title>
+            <link>http://illinois.edu/calendar/detail/1439/32511447</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/1439/32511447</guid>
+            <pubDate>Thu, 17 Sep 2015 15:30:00 CDT</pubDate>
+            <description></description>
+        </item>
+        <item>
+            <title>Statistics Seminar - Dr. Shuheng Zhou (University of Michigan, Ann Arbor)</title>
+            <link>http://illinois.edu/calendar/detail/1439/32723391</link>
+            <category>Seminar</category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/1439/32723391</guid>
+            <pubDate>Thu, 03 Dec 2015 15:30:00 CST</pubDate>
+            <description></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>MatSE Calendar</title>
+        <link>http://illinois.edu/calendar/list/2759</link>
+        <description>Calendar for the Department of Materials Science and Engineering at the University of Illinois.</description>
+        <item>
+            <title>MatSE Graduation Lunch</title>
+            <link>http://illinois.edu/calendar/detail/2759/32692810</link>
+            <category></category>
+            <guid isPermaLink="true">http://illinois.edu/calendar/detail/2759/32692810</guid>
+            <pubDate>Sun, 17 May 2015 11:30:00 CDT</pubDate>
+            <description>&lt;p&gt;The Department of Materials Science and Engineering invites May 2015&amp;nbsp;graduates and their families to a Graduation Luncheon. Graduates will receive a total of three complimentary tickets--this includes&amp;nbsp;the ticket for the graduate's lunch. Additional tickets may be purchased for $10 each.&lt;/p&gt;</description>
+        </item>
+    </channel>
+</rss>
